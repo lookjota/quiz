@@ -1,5 +1,7 @@
 // react, components, statistic
 
+// 27min
+
 
 import './App.css'
 import Welcome from './components/Welcome'
